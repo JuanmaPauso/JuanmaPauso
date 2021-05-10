@@ -7,7 +7,7 @@ const juanma = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SASS],
   tools: [Node, Express, Sequelize],
-  soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D", "Clip Studio Paint"]
+  soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D"]
 }
 ```
 
