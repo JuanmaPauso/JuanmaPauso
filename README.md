@@ -2,6 +2,9 @@
 
 [![Linkedin: Juanma Pérez](https://img.shields.io/badge/-juanmapérez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
 
+[Spanish version](https://github.com/JuanmaPauso/JuanmaPauso/blob/main/READMEes.md)
+
+
 ```javascript
 const juanma = {
   pronouns: "he" | "him",
