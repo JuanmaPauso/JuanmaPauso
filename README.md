@@ -1,6 +1,6 @@
-<h2> Hi, I'm Juanma Pauso, UX/UI Designer and Frontend Developer!</h2>
+<h2> Hi, I'm Juanma Pérez, UX/UI Designer and Frontend Developer!</h2>
 
-[![Linkedin: Juanma Pauso](https://img.shields.io/badge/-juanmapauso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
+[![Linkedin: Juanma Pérez](https://img.shields.io/badge/-juanmapérez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
 
 ```javascript
 const juanma = {
