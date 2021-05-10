@@ -1,13 +1,13 @@
-<h2> Hi, I'm Juanma Pauso! </h2>
+<h2> Hi, I'm Juanma Pauso, UX/UI Designer and Frontend Developer!</h2>
 
 [![Linkedin: Juanma Pauso](https://img.shields.io/badge/-juanmapauso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
 
 ```javascript
 const juanma = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [Node, Express],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  code: [Javascript, HTML, CSS, SASS],
+  tools: [Node, Express, Sequelize],
+  soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D", "Clip Studio Paint"]
 }
 ```
 
