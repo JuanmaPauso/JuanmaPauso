@@ -9,10 +9,13 @@ En los últimos 8 años he trabajado como diseñador gráfico multidisciplinar m
 Actualmente estoy en desempleo, formándome como programador web y mejorando mis habilidades como diseñador.
 
 ```javascript
-const juanma = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [SASS, Node, Express, Sequelize],
-  soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D"]
+
+let i = 🐥;
+
+while (i !== 💀) {
+
+//TODO
+
 }
+
 ```
