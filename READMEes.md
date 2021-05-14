@@ -4,7 +4,9 @@
 
 [English version](https://github.com/JuanmaPauso/JuanmaPauso/blob/main/README.md)
 
+En los últimos 8 años he trabajado como diseñador gráfico multidisciplinar moviéndome entre los departamentos de marketing y desarrollo.
 
+Actualmente estoy en desempleo, formándome como programador web y mejorando mis habilidades como diseñador.
 
 ```javascript
 const juanma = {
