@@ -11,7 +11,7 @@ I am currently unemployed, training as a web programmer and improving my skills 
 
 ```javascript
 
-let i = 🐥
+let i = 🐥;
 
 while (i !== 💀) {
 
