@@ -10,12 +10,15 @@ I am currently unemployed, training as a web programmer and improving my skills 
 
 
 ```javascript
-const juanma = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [SASS, Node, Express, Sequelize],
-  soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D"]
+
+let i = 🐥
+
+while (i !== 💀) {
+
+//TODO
+
 }
+
 ```
 
 
