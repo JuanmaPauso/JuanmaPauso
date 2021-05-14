@@ -8,8 +8,8 @@
 ```javascript
 const juanma = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SASS],
-  tools: [Node, Express, Sequelize],
+  code: [Javascript, HTML, CSS],
+  tools: [SASS, Node, Express, Sequelize],
   soft: ["Adobe Creative Suite", "Figma", "Sketch", "Cinema 4D"]
 }
 ```
