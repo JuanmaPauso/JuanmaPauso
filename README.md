@@ -4,7 +4,7 @@
 
 [Spanish version](https://github.com/JuanmaPauso/JuanmaPauso/blob/main/READMEes.md)
 
-In the last 8 years I have worked as a multidisciplinary graphic designer moving between the marketing and development departments.
+In the last 9 years I have worked as a multidisciplinary graphic designer moving between the marketing and development departments.
 
 I am currently unemployed, training as a web programmer and improving my skills as a designer.
 
