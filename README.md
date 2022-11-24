@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juanma Pérez, UX/UI Designer and Frontend Developer!</h2>
+<h2> Hi, I'm Juanma Pérez, UI Designer and Frontend Developer!</h2>
 
 [![Linkedin: Juanma Pérez](https://img.shields.io/badge/-juanmapérez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
 
