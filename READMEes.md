@@ -1,4 +1,4 @@
-<h2> ¡Hola! Soy Juanma Pérez, UX/UI diseñador y programador web</h2>
+<h2> ¡Hola! Soy Juanma Pérez, UI diseñador y programador web</h2>
 
 [![Linkedin: Juanma Pérez](https://img.shields.io/badge/-juanmapérez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanmaperezpauso/)](https://www.linkedin.com/in/juanmaperezpauso/)
 
